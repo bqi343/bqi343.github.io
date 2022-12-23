@@ -6,12 +6,14 @@ date:   2022-12-22 16:52:33 -0500
 
 All the competitive programming problems I've (co)authored as of December 2022, excluding USACO Camp. More on the way ...
 
+You can find some problemsetting tips at [the end of this page](#problemsetting-tips).
+
 ## [USA Computing Olympiad](http://www.usaco.org/)
 **Total:** 59
 
-I've been a problemsetter for the USACO since December 2019. Feel free to contact me if you would like to propose a problem of your own (see [the end of this page](#problemsetting-tips) for some problemsetting tips). 
+The USACO hosts 3-problem, 4-hour contests for high school students. Contests are offered in four divisions (Bronze, Silver, Gold, and Platinum in increasing order of difficulty), four times a year. I've been a problemsetter for the USACO since December 2019. Feel free to contact me if you would like to propose a problem of your own.
 
-I also cofounded the [USACO Guide](https://usaco.guide/) in 2020 (not affiliated with the USACO).
+I also cofounded the [USACO Guide](https://usaco.guide/) in 2020 (not affiliated with the USACO) to help students prepare for the USACO.
 
 ### Bronze
 **Total:** 6
