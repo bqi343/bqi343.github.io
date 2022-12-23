@@ -7,13 +7,9 @@ The [USA Computing Olympiad](http://www.usaco.org/) hosts 3-problem, 4-hour cont
 
 ## Problem Proposal FAQs
 
-### Who can propose problems for the USACO?
+### Can I propose problems for the USACO?
 
-Anyone, including current USACO contestants. Though if you're a current USACO contestant, we probably won't use your problem if it's for the division you are currently in or the division above that.
-
-### How do I propose a problem for the USACO?
-
-You can email me a proposal satisfying the requirements below.
+Anyone, including current USACO contestants, can propose a problem. Though if you're a current USACO contestant, we probably won't use your problem if it's for the division you are currently in or the division above that.
 
 ### What sorts of problems can I propose?
 
@@ -22,6 +18,15 @@ and communication ([source](https://cms.readthedocs.io/en/v1.4/Task%20types.html
 tasks since those are the easiest to prepare. Check the USACO website
 for examples of recent tasks, and the [USACO Guide](https://usaco.guide/bronze/)
 for an _unofficial_ list of topics for each division.
+
+### How do I propose a problem for the USACO?
+
+You can email me a proposal satisfying the requirements below.
+
+### How do I prepare problems for the USACO?
+
+If you are out of high school and would like to help write statements,
+solutions, generators, validators, or analyses, please let me know.
 
 ## Problem Proposal Requirements
 
