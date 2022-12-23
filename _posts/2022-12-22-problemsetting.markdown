@@ -8,10 +8,12 @@ All the competitive programming problems I've (co)authored, excluding USACO Camp
 More on the way ...
 
 ## USACO
-Total: 59
+**Total:** 59
 
-### USACO Bronze
-Total: 6
+I've been a problemsetter for the [USA Computing Olympiad](http://www.usaco.org/) since December of 2019. Feel free to contact me if you would like to propose a problem of your own.
+
+### Bronze
+**Total:** 6
  - [2020 January: Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=988) (Benjamin Qi and Chris Zhang)
  - [2020 December: Do You Know Your ABCs?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059) (Benjamin Qi)
  - [2021 February: Comfortable Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=1108) (Benjamin Qi)
@@ -19,8 +21,8 @@ Total: 6
  - [2022 February: Photoshoot 2](http://www.usaco.org/index.php?page=viewproblem2&cpid=1204) (Benjamin Qi)
  - [2022 December: Reverse Engineering](http://www.usaco.org/index.php?page=viewproblem2&cpid=1253) (Benjamin Qi)
 
-### USACO Silver
-Total: 7
+### Silver
+**Total:** 7
  - [2019 December: Meetings](http://www.usaco.org/index.php?page=viewproblem2&cpid=967) (Benjamin Qi)
  - [2020 December: Rectangular Pasture](http://www.usaco.org/index.php?page=viewproblem2&cpid=1063) (Benjamin Qi)
  - [2021 February: Comfortable Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=1110) (Benjamin Qi)
@@ -29,8 +31,8 @@ Total: 7
  - [2022 February: Redistributing Gifts](http://www.usaco.org/index.php?page=viewproblem2&cpid=1206) (Benjamin Qi)
  - [2022 US Open: Visits](http://www.usaco.org/index.php?page=viewproblem2&cpid=1230) (Benjamin Qi and Michael Cao)
 
-### USACO Gold
-Total: 20
+### Gold
+**Total:** 20
  - [2020 February: Help Yourself](http://www.usaco.org/index.php?page=viewproblem2&cpid=1018) (Benjamin Qi)
  - [2020 US Open: Favorite Colors](http://www.usaco.org/index.php?page=viewproblem2&cpid=1042) (William Lin and Benjamin Qi)
  - [2020 US Open: Exercise](http://www.usaco.org/index.php?page=viewproblem2&cpid=1043) (Benjamin Qi)
@@ -52,8 +54,8 @@ Total: 20
  - [2022 US Open: Pair Programming](http://www.usaco.org/index.php?page=viewproblem2&cpid=1234) (Benjamin Qi)
  - [2022 December: Strongest Friendship Group](http://www.usaco.org/index.php?page=viewproblem2&cpid=1259) (Benjamin Qi)
 
-### USACO Platinum
-Total: 26
+### Platinum
+**Total:** 26
  - [2019 December: Greedy Pie Eaters](http://www.usaco.org/index.php?page=viewproblem2&cpid=972) (Benjamin Qi)
  - [2019 December: Bessie's Snow Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=973) (Michael Cao and Benjamin Qi)
  - [2020 January: Non-Decreasing Subsequences](http://www.usaco.org/index.php?page=viewproblem2&cpid=997) (Benjamin Qi)
@@ -82,6 +84,6 @@ Total: 26
  - [2022 December: Palindromes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1262) (Mythreya Dharani and Benjamin Qi)
 
 ## Other
-Total: 2
+**Total:** 2
  - [European Girls' Olympiad in Informatics 2021 - Lanterns](https://stats.egoi.org/media/task_description/2021_lantern_en.pdf) (Benjamin Qi, Richard Qi, and Siyong Huang)
  - [Codeforces Round 736 Div 1 E - Gregor and the Two Painters](https://codeforces.com/contest/1548/problem/E) (Benjamin Qi)
