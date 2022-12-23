@@ -4,13 +4,14 @@ title:  "Programming Contest Problemsetting"
 date:   2022-12-22 16:52:33 -0500
 ---
 
-All the competitive programming problems I've (co)authored, excluding USACO Camp. 
-More on the way ...
+All the competitive programming problems I've (co)authored as of December 2022, excluding USACO Camp. More on the way ...
 
-## USACO
+## [USA Computing Olympiad](http://www.usaco.org/)
 **Total:** 59
 
-I've been a problemsetter for the [USA Computing Olympiad](http://www.usaco.org/) since December of 2019. Feel free to contact me if you would like to propose a problem of your own.
+I've been a problemsetter for the USACO since December 2019. Feel free to contact me if you would like to propose a problem of your own.
+
+I also cofounded the [USACO Guide](https://usaco.guide/) in 2020 (not affiliated with the USACO).
 
 ### Bronze
 **Total:** 6
