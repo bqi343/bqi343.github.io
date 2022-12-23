@@ -1,19 +1,14 @@
 ---
 layout: post
-title:  "Programming Contest Problemsetting"
-date:   2022-12-22 16:52:33 -0500
+title:  "My Competitive Programming Problems"
 ---
 
 All the competitive programming problems I've (co)authored as of December 2022, excluding USACO Camp. More on the way ...
 
-You can find some problemsetting tips at [the end of this page](#problemsetting-tips).
-
 ## [USA Computing Olympiad](http://www.usaco.org/)
 **Total:** 59
 
-The USACO hosts 3-problem, 4-hour contests for high school students. Contests are offered in four divisions (Bronze, Silver, Gold, and Platinum in increasing order of difficulty), four times a year. I've been a problemsetter for the USACO since December 2019. Feel free to contact me if you would like to propose a problem of your own.
-
-I also cofounded the [USACO Guide](https://usaco.guide/) in 2020 (not affiliated with the USACO) to help students prepare for the USACO.
+See [this page](/2022/12/23/usacoreqs.html) if you're interested in problemsetting for the USACO.
 
 ### Bronze
 **Total:** 6
@@ -90,26 +85,3 @@ I also cofounded the [USACO Guide](https://usaco.guide/) in 2020 (not affiliated
 **Total:** 2
  - [European Girls' Olympiad in Informatics 2021: Lanterns](https://stats.egoi.org/media/task_description/2021_lantern_en.pdf) (Benjamin Qi, Richard Qi, and Siyong Huang)
  - [Codeforces Round 736 Div 1 E: Gregor and the Two Painters](https://codeforces.com/contest/1548/problem/E) (Benjamin Qi)
-
-
-## Problemsetting Tips
-
-Here are some methods that have worked reliably for me:
-
- - ~~Copy~~ Take inspiration from a past programming contest problem.
-   - I didn't manage to solve [this problem](https://codeforces.com/contest/1392/problem/I) in-contest, but I came up with [Gregor and the Two Painters](https://codeforces.com/contest/1548/problem/E) as a result.
-   - [Modern Art 3](http://www.usaco.org/index.php?page=viewproblem2&cpid=1114) arose naturally from [Modern Art 2](http://www.usaco.org/index.php?page=viewproblem2&cpid=743).
- - Take inspiration from classes.
-   - [Routing Schemes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1141) was based on MIT 6.856: Randomized Algorithms.
-   - [Pair Programming](http://www.usaco.org/index.php?page=viewproblem2&cpid=1234) was based on MIT 6.172: Software Performance Engineering.
-   - [Paired Up](http://www.usaco.org/index.php?page=viewproblem2&cpid=1165) was based on MIT 21M.387: Fundamentals of Music Processing.
- - Count \\(x\\) of \\(y\\) satisfying \\(z\\) property.
-   - [Rectangular Pasture](http://www.usaco.org/index.php?page=viewproblem2&cpid=1063), [Square Pasture](http://www.usaco.org/index.php?page=viewproblem2&cpid=1067), [Balanced Subsets](http://www.usaco.org/index.php?page=viewproblem2&cpid=1142): count subsets of grid cells satisfying some property.
-   - [Equilateral Triangles](http://www.usaco.org/index.php?page=viewproblem2&cpid=1021): count triples of grid cells satisfying some property.
-   - [United Cows of Farmer John](http://www.usaco.org/index.php?page=viewproblem2&cpid=1140): count triples of array elements satisfying some property.
-   - [Cowmistry](http://www.usaco.org/index.php?page=viewproblem2&cpid=1070): count triples of integers satisfying some property.
-
-<!--  - (Unintentionally) copy a past problem.
-   - [Equilateral Triangles](http://www.usaco.org/index.php?page=viewproblem2&cpid=1021) turned out to be identical to [this problem](https://atcoder.jp/contests/tenka1-2018/tasks/tenka1_2018_e). Sorry, making original problems isn't always easy ... -->
- 
-You can also find articles about problemsetting at the end of the [Codeforces catalog](https://codeforces.com/catalog).
