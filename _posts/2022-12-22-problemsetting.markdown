@@ -9,7 +9,7 @@ All the competitive programming problems I've (co)authored as of December 2022, 
 ## [USA Computing Olympiad](http://www.usaco.org/)
 **Total:** 59
 
-I've been a problemsetter for the USACO since December 2019. Feel free to contact me if you would like to propose a problem of your own.
+I've been a problemsetter for the USACO since December 2019. Feel free to contact me if you would like to propose a problem of your own. If you're wondering how to come up with problem ideas, you can find some helpful tips at the bottom of the [Codeforces catalog](https://codeforces.com/catalog).
 
 I also cofounded the [USACO Guide](https://usaco.guide/) in 2020 (not affiliated with the USACO).
 
@@ -86,5 +86,5 @@ I also cofounded the [USACO Guide](https://usaco.guide/) in 2020 (not affiliated
 
 ## Other
 **Total:** 2
- - [European Girls' Olympiad in Informatics 2021 - Lanterns](https://stats.egoi.org/media/task_description/2021_lantern_en.pdf) (Benjamin Qi, Richard Qi, and Siyong Huang)
- - [Codeforces Round 736 Div 1 E - Gregor and the Two Painters](https://codeforces.com/contest/1548/problem/E) (Benjamin Qi)
+ - [European Girls' Olympiad in Informatics 2021: Lanterns](https://stats.egoi.org/media/task_description/2021_lantern_en.pdf) (Benjamin Qi, Richard Qi, and Siyong Huang)
+ - [Codeforces Round 736 Div 1 E: Gregor and the Two Painters](https://codeforces.com/contest/1548/problem/E) (Benjamin Qi)
