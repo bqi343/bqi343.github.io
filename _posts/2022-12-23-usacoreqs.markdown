@@ -61,6 +61,8 @@ solutions, generators, validators, or analyses, please let me know.
 
 ## How to come up with problem ideas
 
+You can find articles about problemsetting at the end of the [Codeforces catalog](https://codeforces.com/catalog). In particular, I think methods 2, 3, 5, and 6 from [this blog](https://www.topcoder.com/blog/how-to-come-up-with-problem-ideas/) are all good ways to generate problems.
+
 Here are some methods that have worked reliably for me:
 
 - ~~Copy~~ Take inspiration from a past problem.
@@ -78,5 +80,3 @@ Here are some methods that have worked reliably for me:
 
 <!--  - (Unintentionally) copy a past problem.
    - [Equilateral Triangles](http://www.usaco.org/index.php?page=viewproblem2&cpid=1021) turned out to be identical to [this problem](https://atcoder.jp/contests/tenka1-2018/tasks/tenka1_2018_e). Sorry, making original problems isn't always easy ... -->
-
-You can also find articles about problemsetting at the end of the [Codeforces catalog](https://codeforces.com/catalog).
