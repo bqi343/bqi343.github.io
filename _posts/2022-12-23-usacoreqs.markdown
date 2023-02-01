@@ -45,6 +45,55 @@ solutions, generators, validators, or analyses, please let me know.
 - (Optional) Test generator
 - (Optional) Flavor text
 
+<details>
+
+<summary>How the Problem Statement Should be Formatted</summary>
+
+<object data="/pdfs/io-speed-test.pdf" type='application/pdf' style='width: 100%; height: 80vh'> </object>
+
+Source:
+
+<pre>
+The input consists of two integers $M$ ($0\le M\le 1$) and $N$
+($1\le N\le 10^6$), followed by a sequence of $N$ non-negative integers  each
+less than $10^9+7$.
+
+[ul]
+[li]If $M=0$, output the sum of the input sequence modulo $10^9+7$.[/li]
+
+[li]If $M=1$, output the sum of each prefix of the input sequence modulo
+$10^9+7$.[/li]
+[/ul]
+
+[input]
+The first line contains $M$ and $N$.
+
+The next $N$ lines each contain an integer of the input sequence.
+[/input]
+
+[output]
+As described in the statement. Print all integers separated by newlines.
+[/output]
+
+[example]
+
+[example]
+
+[section|SCORING:]
+
+[ul]
+
+[li]Inputs 3-7: $M=0$[/li]
+
+[li]Inputs 8-12: $M=1$[/li]
+[/ul]
+
+[/section]
+</pre>
+
+</details>
+
+
 ### Common mistakes to avoid
 
 - Typos
