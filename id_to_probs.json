@@ -1,0 +1,471 @@
+{
+  "967": {
+    "division": "Silver",
+    "contest": "2019 December",
+    "title": "Meetings",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=967",
+    "creds": "Benjamin Qi"
+  },
+  "972": {
+    "division": "Platinum",
+    "contest": "2019 December",
+    "title": "Greedy Pie Eaters",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=972",
+    "creds": "Benjamin Qi"
+  },
+  "973": {
+    "division": "Platinum",
+    "contest": "2019 December",
+    "title": "Bessie's Snow Cow",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=973",
+    "creds": "Michael Cao and Benjamin Qi"
+  },
+  "988": {
+    "division": "Bronze",
+    "contest": "2020 January",
+    "title": "Photoshoot",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=988",
+    "creds": "Benjamin Qi and Chris Zhang"
+  },
+  "997": {
+    "division": "Platinum",
+    "contest": "2020 January",
+    "title": "Non-Decreasing Subsequences",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=997",
+    "creds": "Benjamin Qi"
+  },
+  "1018": {
+    "division": "Gold",
+    "contest": "2020 February",
+    "title": "Help Yourself",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1018",
+    "creds": "Benjamin Qi"
+  },
+  "1021": {
+    "division": "Platinum",
+    "contest": "2020 February",
+    "title": "Equilateral Triangles",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1021",
+    "creds": "Benjamin Qi"
+  },
+  "1022": {
+    "division": "Platinum",
+    "contest": "2020 February",
+    "title": "Help Yourself",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1022",
+    "creds": "Benjamin Qi"
+  },
+  "1042": {
+    "division": "Gold",
+    "contest": "2020 US Open",
+    "title": "Favorite Colors",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1042",
+    "creds": "William Lin and Benjamin Qi"
+  },
+  "1043": {
+    "division": "Gold",
+    "contest": "2020 US Open",
+    "title": "Exercise",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1043",
+    "creds": "Benjamin Qi"
+  },
+  "1044": {
+    "division": "Platinum",
+    "contest": "2020 US Open",
+    "title": "Sprinklers 2: Return of the Alfalfa",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1044",
+    "creds": "Benjamin Qi"
+  },
+  "1045": {
+    "division": "Platinum",
+    "contest": "2020 US Open",
+    "title": "Exercise",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1045",
+    "creds": "Benjamin Qi"
+  },
+  "1059": {
+    "division": "Bronze",
+    "contest": "2020 December",
+    "title": "Do You Know Your ABCs?",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1059",
+    "creds": "Benjamin Qi"
+  },
+  "1063": {
+    "division": "Silver",
+    "contest": "2020 December",
+    "title": "Rectangular Pasture",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1063",
+    "creds": "Benjamin Qi"
+  },
+  "1065": {
+    "division": "Gold",
+    "contest": "2020 December",
+    "title": "Replication",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1065",
+    "creds": "Benjamin Qi"
+  },
+  "1066": {
+    "division": "Gold",
+    "contest": "2020 December",
+    "title": "Bovine Genetics",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1066",
+    "creds": "Benjamin Qi"
+  },
+  "1067": {
+    "division": "Gold",
+    "contest": "2020 December",
+    "title": "Square Pasture",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1067",
+    "creds": "Benjamin Qi"
+  },
+  "1069": {
+    "division": "Platinum",
+    "contest": "2020 December",
+    "title": "Spaceship",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1069",
+    "creds": "Benjamin Qi"
+  },
+  "1070": {
+    "division": "Platinum",
+    "contest": "2020 December",
+    "title": "Cowmistry",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1070",
+    "creds": "Benjamin Qi"
+  },
+  "1092": {
+    "division": "Platinum",
+    "contest": "2021 January",
+    "title": "Sum of Distances",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1092",
+    "creds": "Benjamin Qi"
+  },
+  "1093": {
+    "division": "Platinum",
+    "contest": "2021 January",
+    "title": "Minimum Cost Paths",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1093",
+    "creds": "Benjamin Qi"
+  },
+  "1108": {
+    "division": "Bronze",
+    "contest": "2021 February",
+    "title": "Comfortable Cows",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1108",
+    "creds": "Benjamin Qi"
+  },
+  "1110": {
+    "division": "Silver",
+    "contest": "2021 February",
+    "title": "Comfortable Cows",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1110",
+    "creds": "Benjamin Qi"
+  },
+  "1113": {
+    "division": "Gold",
+    "contest": "2021 February",
+    "title": "Stone Game",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1113",
+    "creds": "Benjamin Qi"
+  },
+  "1114": {
+    "division": "Gold",
+    "contest": "2021 February",
+    "title": "Modern Art 3",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1114",
+    "creds": "Brian Dean and Benjamin Qi"
+  },
+  "1115": {
+    "division": "Gold",
+    "contest": "2021 February",
+    "title": "Count the Cows",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1115",
+    "creds": "Benjamin Qi"
+  },
+  "1116": {
+    "division": "Platinum",
+    "contest": "2021 February",
+    "title": "No Time to Dry",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1116",
+    "creds": "Andi Qu, Brian Dean, and Benjamin Qi"
+  },
+  "1117": {
+    "division": "Platinum",
+    "contest": "2021 February",
+    "title": "Minimizing Edges",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1117",
+    "creds": "Benjamin Qi"
+  },
+  "1118": {
+    "division": "Platinum",
+    "contest": "2021 February",
+    "title": "Counting Graphs",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1118",
+    "creds": "Benjamin Qi"
+  },
+  "1133": {
+    "division": "Bronze",
+    "contest": "2021 US",
+    "title": "Acowdemia III",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1133",
+    "creds": "Benjamin Qi"
+  },
+  "1135": {
+    "division": "Silver",
+    "contest": "2021 US",
+    "title": "Do You Know Your ABCs?",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1135",
+    "creds": "Benjamin Qi"
+  },
+  "1137": {
+    "division": "Gold",
+    "contest": "2021 US",
+    "title": "United Cows of Farmer John",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1137",
+    "creds": "Benjamin Qi"
+  },
+  "1138": {
+    "division": "Gold",
+    "contest": "2021 US",
+    "title": "Portals",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1138",
+    "creds": "Benjamin Qi"
+  },
+  "1139": {
+    "division": "Gold",
+    "contest": "2021 US",
+    "title": "Permutation",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1139",
+    "creds": "Benjamin Qi"
+  },
+  "1140": {
+    "division": "Platinum",
+    "contest": "2021 US",
+    "title": "United Cows of Farmer John",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1140",
+    "creds": "Benjamin Qi"
+  },
+  "1141": {
+    "division": "Platinum",
+    "contest": "2021 US",
+    "title": "Routing Schemes",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1141",
+    "creds": "Benjamin Qi"
+  },
+  "1142": {
+    "division": "Platinum",
+    "contest": "2021 US",
+    "title": "Balanced Subsets",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1142",
+    "creds": "Benjamin Qi"
+  },
+  "1160": {
+    "division": "Silver",
+    "contest": "2021 December",
+    "title": "Convoluted Intervals",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1160",
+    "creds": "Benjamin Qi"
+  },
+  "1161": {
+    "division": "Gold",
+    "contest": "2021 December",
+    "title": "Paired Up",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1161",
+    "creds": "Benjamin Qi"
+  },
+  "1164": {
+    "division": "Platinum",
+    "contest": "2021 December",
+    "title": "Tickets",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1164",
+    "creds": "Benjamin Qi"
+  },
+  "1165": {
+    "division": "Platinum",
+    "contest": "2021 December",
+    "title": "Paired Up",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1165",
+    "creds": "Benjamin Qi"
+  },
+  "1185": {
+    "division": "Gold",
+    "contest": "2022 January",
+    "title": "Drought",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1185",
+    "creds": "Arpan Banerjee and Benjamin Qi"
+  },
+  "1186": {
+    "division": "Gold",
+    "contest": "2022 January",
+    "title": "Farm Updates",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1186",
+    "creds": "Benjamin Qi"
+  },
+  "1188": {
+    "division": "Platinum",
+    "contest": "2022 January",
+    "title": "Minimizing Haybales",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1188",
+    "creds": "Daniel Zhang and Benjamin Qi"
+  },
+  "1190": {
+    "division": "Platinum",
+    "contest": "2022 January",
+    "title": "Multiple Choice Test",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1190",
+    "creds": "Benjamin Qi"
+  },
+  "1204": {
+    "division": "Bronze",
+    "contest": "2022 February",
+    "title": "Photoshoot 2",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1204",
+    "creds": "Benjamin Qi"
+  },
+  "1206": {
+    "division": "Silver",
+    "contest": "2022 February",
+    "title": "Redistributing Gifts",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1206",
+    "creds": "Benjamin Qi"
+  },
+  "1209": {
+    "division": "Gold",
+    "contest": "2022 February",
+    "title": "Redistributing Gifts",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1209",
+    "creds": "Benjamin Qi"
+  },
+  "1210": {
+    "division": "Gold",
+    "contest": "2022 February",
+    "title": "Cow Camp",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1210",
+    "creds": "Benjamin Qi"
+  },
+  "1213": {
+    "division": "Platinum",
+    "contest": "2022 February",
+    "title": "Sleeping in Class",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1213",
+    "creds": "Jesse Choe and Benjamin Qi"
+  },
+  "1230": {
+    "division": "Silver",
+    "contest": "2022 US Open",
+    "title": "Visits",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1230",
+    "creds": "Benjamin Qi and Michael Cao"
+  },
+  "1233": {
+    "division": "Gold",
+    "contest": "2022 US Open",
+    "title": "Apple Catching",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1233",
+    "creds": "Benjamin Qi"
+  },
+  "1234": {
+    "division": "Gold",
+    "contest": "2022 US Open",
+    "title": "Pair Programming",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1234",
+    "creds": "Benjamin Qi"
+  },
+  "1236": {
+    "division": "Platinum",
+    "contest": "2022 US Open",
+    "title": "262144 Revisited",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1236",
+    "creds": "Benjamin Qi"
+  },
+  "1253": {
+    "division": "Bronze",
+    "contest": "2022 December",
+    "title": "Reverse Engineering",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1253",
+    "creds": "Benjamin Qi"
+  },
+  "1259": {
+    "division": "Gold",
+    "contest": "2022 December",
+    "title": "Strongest Friendship Group",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1259",
+    "creds": "Benjamin Qi"
+  },
+  "1260": {
+    "division": "Platinum",
+    "contest": "2022 December",
+    "title": "Breakdown",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1260",
+    "creds": "Benjamin Qi"
+  },
+  "1261": {
+    "division": "Platinum",
+    "contest": "2022 December",
+    "title": "Making Friends",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1261",
+    "creds": "Benjamin Qi"
+  },
+  "1262": {
+    "division": "Platinum",
+    "contest": "2022 December",
+    "title": "Palindromes",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1262",
+    "creds": "Mythreya Dharani and Benjamin Qi"
+  },
+  "1278": {
+    "division": "Silver",
+    "contest": "2023 January",
+    "title": "Find and Replace",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1278",
+    "creds": "Benjamin Qi"
+  },
+  "1279": {
+    "division": "Silver",
+    "contest": "2023 January",
+    "title": "Following Directions",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1279",
+    "creds": "Benjamin Qi"
+  },
+  "1281": {
+    "division": "Gold",
+    "contest": "2023 January",
+    "title": "Find and Replace",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1281",
+    "creds": "Benjamin Qi"
+  },
+  "1282": {
+    "division": "Gold",
+    "contest": "2023 January",
+    "title": "Lights Off",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1282",
+    "creds": "William Yue, Eric Yang, and Benjamin Qi"
+  },
+  "1283": {
+    "division": "Gold",
+    "contest": "2023 January",
+    "title": "Moo Route",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1283",
+    "creds": "Brandon Wang, Claire Zhang, and Benjamin Qi"
+  },
+  "1284": {
+    "division": "Platinum",
+    "contest": "2023 January",
+    "title": "Tractor Paths",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1284",
+    "creds": "Benjamin Qi"
+  },
+  "1285": {
+    "division": "Platinum",
+    "contest": "2023 January",
+    "title": "Mana Collection",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1285",
+    "creds": "Benjamin Qi"
+  },
+  "1286": {
+    "division": "Platinum",
+    "contest": "2023 January",
+    "title": "Subtree Activation",
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1286",
+    "creds": "Benjamin Qi"
+  }
+}
